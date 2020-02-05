@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS `soccerDataSource` (`ftr` VARCHAR(255) NULL,
+`hthg` VARCHAR(255) NULL,
+`hometeam` VARCHAR(255) NULL,
+`htag` VARCHAR(255) NULL,
+`fthg` VARCHAR(255) NULL,
+`awayteam` VARCHAR(255) NULL,
+`htr` VARCHAR(255) NULL,
+`date` VARCHAR(255) NULL,
+`div` VARCHAR(255) NULL,
+`ftag` VARCHAR(255) NULL) ;
